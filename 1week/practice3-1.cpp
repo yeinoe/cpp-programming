@@ -1,3 +1,5 @@
+//예제 3-1 if-else 사용
+
 #include <iostream>
 using namespace std;
 
